@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Featured Project  
-- 📝 **[COVID Dashboard](https://github.com/nikitajadhav05/covid-dashboard)** – Real-time data visualization using Django  
+- 📝 **[COVID Dashboard](https://github.com/nikitajadhav05/covid-dashboard-django)** – Real-time data visualization using Django  
 
 ---
 
